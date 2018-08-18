@@ -1,10 +1,11 @@
 package main
 
 import (
-	"github.com/jirawatfreedom/bet-crypto"
 	"log"
 	"net/http"
 	"os"
+
+	"github.com/jirawatfreedom/bet-crypto"
 )
 
 const dbFileName = "game.db.json"
